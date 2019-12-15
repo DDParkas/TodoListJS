@@ -1,0 +1,30 @@
+body{
+    margin:0 auto;
+    width:500px;
+}
+#app{
+    margin-top: 10%;
+    border: 1px solid #000;
+    padding: 10px;
+}
+#app input, button{
+    padding: 10px;
+}
+#app input{
+    width: 70%;
+}
+#app button{
+    border: 1px solid #000;
+    background-color: #fff;
+}
+#app ul{
+    
+    list-style-type: none;
+}
+.todo{
+    border-bottom: 1px solid #000;
+    margin-bottom: 10px;
+}
+.links{
+    padding: 10px;
+}
